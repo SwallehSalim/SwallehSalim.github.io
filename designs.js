@@ -3,10 +3,10 @@ function makeGrid() {
     $("#pixel_canvas").html("");
     height = $("#input_height").val();
     width = $("#input_width").val();
-    if (height > 60 || width > 60 || height < 1 || width < 1) {
+    if (height > 60 || width > 60 || height < 0 || width < 0) {
         if (!error.classList.contains("error")) {
             error.classList.toggle("error");
-            error.innerText = "the dimension has to be smaller than 50 and bigger than 0";
+            error.innerText = "the dimension has to be smaller than 60 and bigger than 0";
             clearFields();
         }
     } else {
