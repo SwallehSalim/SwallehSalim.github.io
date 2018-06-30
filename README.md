@@ -1,14 +1,12 @@
-# Pixel Art Maker Project
+My Pixel Art Maker challenge project:
 
-Pick any color to draw in a pixel art style.
-
-## Guidelines
-• Choose the number of rows and collumns;<br>
-• Pick the color from the ColorPicker color palette;<br>
-• Draw using the mouse by clicking and moving;<br>
-• Double click a cell to set it's color back to white;<br>
-• Press reset button to clear the grid;<br>
-• Start over.
+Steps involved in using the maker:
+1.Choose the number of rows and columns that you need;<br>
+2.Pick the color from the ColorPicker color collection;<br>
+3.Draw using the mouse by clicking and moving;<br>
+4.Double click a cell to set it's color back to white;<br>
+5.Press clear button to reset your inputs and the grid;<br>
+Thats it...
  
-![untitled-1](https://user-images.githubusercontent.com/25347909/34360715-020c373e-ea6c-11e7-9862-537078893d2d.png)
+
 
